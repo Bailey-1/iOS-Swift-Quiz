@@ -2,6 +2,15 @@
 
 It uses Open trivia DB's API to request questions.
 
+<p float="left">
+  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.24.21.png" height=600px/>
+  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.24.33.png" height=600px/>
+
+  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.25.19.png" height=600px/>
+  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.25.15.png" height=600px/>
+  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.27.21.png" height=600px/>
+</p>
+
 ## Features:
 
 - Thousands of questions that are fetched from the API.
